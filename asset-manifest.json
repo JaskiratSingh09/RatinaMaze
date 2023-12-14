@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rateinamaze/static/css/main.bedbfa1e.css",
+    "main.js": "/rateinamaze/static/js/main.7c30cd97.js",
+    "static/js/787.618f1f26.chunk.js": "/rateinamaze/static/js/787.618f1f26.chunk.js",
+    "index.html": "/rateinamaze/index.html",
+    "main.bedbfa1e.css.map": "/rateinamaze/static/css/main.bedbfa1e.css.map",
+    "main.7c30cd97.js.map": "/rateinamaze/static/js/main.7c30cd97.js.map",
+    "787.618f1f26.chunk.js.map": "/rateinamaze/static/js/787.618f1f26.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bedbfa1e.css",
+    "static/js/main.7c30cd97.js"
+  ]
+}
